@@ -11,4 +11,4 @@ public class MyUserObject {
     private boolean sell_in_list_set;
     private boolean sell_out_list_set;
 
-}
+   }
